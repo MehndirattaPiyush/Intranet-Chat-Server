@@ -5,7 +5,7 @@ This is a server-side script to handle intranet chatting. This can be handy when
 
 We've used `asyncore` and `asynchat` modules from Python's standard library to handle receiving and broadcasting text in the backend. 
 
-## How it works
+### How it works
 #### 1. Start the server:
 ```
 python chat_server.py
